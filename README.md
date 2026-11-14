@@ -4,7 +4,7 @@
 
 **Segmentation · Detection · Vision**
 
-Приложение для ручной и полуавтоматической разметки изображений и подготовки датасетов **YOLO Segmentation** и **YOLO Detection** на Windows.
+Приложение для ручной и полуавтоматической разметки изображений и подготовки датасетов **Segmentation** и **Detection** на Windows.
 
 [![Release](https://img.shields.io/github/v/release/dimansid007/SegDeVision?label=Release)](https://github.com/dimansid007/SegDeVision/releases)
 ![Platform](https://img.shields.io/badge/Windows-x64-0078D4)
