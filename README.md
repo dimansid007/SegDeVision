@@ -16,7 +16,7 @@
 
 </div>
 
-![Главное окно SegDeVision](docs/images/main-window.png)
+![Главное окно SegDeVision](docs/images/MainWindow.png)
 
 ## О программе
 
