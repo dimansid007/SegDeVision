@@ -1,7 +1,5 @@
 <div align="center">
 
-![Логотип](docs/images/startup_splash.png)
-
 # SegDeVision
 
 **Segmentation · Detection · Vision**
@@ -16,6 +14,7 @@
 
 </div>
 
+![Логотип](docs/images/startup_splash.png)
 ![Главное окно SegDeVision](docs/images/MainWindow.png)
 
 ## О программе
