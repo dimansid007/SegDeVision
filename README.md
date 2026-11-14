@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![Логотип](docs/images/startup_splash.png)
 
 # SegDeVision
 
@@ -16,9 +16,7 @@
 
 </div>
 
-<!-- СКРИНШОТ 1: положите изображение в docs/images/main-window.png и уберите комментарии ниже.
 ![Главное окно SegDeVision](docs/images/main-window.png)
--->
 
 ## О программе
 
@@ -35,8 +33,8 @@ SegDeVision помогает создавать и редактировать а
 | Аугментации изображений и согласованных аннотаций | Проверка обновлений, обновление и восстановление предыдущей версии |
 | Разделение на `train`, `val`, `test` с учётом классов | Резервное копирование при удалении классов |
 
-<!-- СКРИНШОТ 2: docs/images/mobilesam.png — результат MobileSAM. -->
-<!-- СКРИНШОТ 3: docs/images/augmentation.png — окно аугментации или пример «до/после». -->
+![MobileSAM](docs/images/MobileSAM.png)
+![Аугментация](docs/images/Augmentations.png)
 
 ## Скачивание и запуск
 
@@ -88,7 +86,7 @@ dataset_export/
 
 Не изменяйте служебные JSON-файлы вручную без резервной копии.
 
-<!-- СКРИНШОТ 4: docs/images/dataset-viewer.png — просмотр сохранённого датасета. -->
+![Просмотр сохранённого датасета](docs/images/Dataset-viewer.png)
 
 ## Если MobileSAM не запускается
 
